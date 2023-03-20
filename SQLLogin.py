@@ -1,5 +1,4 @@
 import tkinter as t
-import pyodbc
 
 class SQL_Server_Login:
     def __init__(self):
